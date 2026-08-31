@@ -6,6 +6,12 @@ My current focus is the workflow around AI-assisted software development: coordi
 
 ## Featured work
 
+### Grasp (private)
+
+An AI-assisted reading comprehension trainer built around timed recall: learners read a passage, summarize it from memory, and receive targeted feedback. The current version includes a complete demo flow, multiple AI-provider support, encrypted connection credentials, strict TypeScript checks, and CI.
+
+`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `AI-assisted learning`
+
 ### [CodePilot](https://github.com/hhuumm/codePilot)
 
 A local control plane for coordinating coding agents across Git repositories. Each onboarded repository gets an isolated project manager, with Git-aware work capture and project lifecycle controls.
@@ -24,4 +30,4 @@ A modernized MERN application for discovering basketball courts and organizing l
 - I treat deployment, tests, documentation, and security as product work.
 - I preserve useful project history while being candid about what is exploratory, collaborative, or production-ready.
 
-Earlier public projects remain available as an intentionally labeled early-career archive. The repositories above represent the direction of my current work.
+Earlier public projects remain available as an intentionally labeled early-career archive. The work above represents the direction of my current projects.
