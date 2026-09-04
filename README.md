@@ -4,11 +4,19 @@ Software engineer building developer tools and dependable full-stack systems.
 
 My current focus is the workflow around AI-assisted software development: coordinating agents across repositories, keeping project context isolated, and turning generated work into reviewable Git branches and pull requests. I also enjoy revisiting earlier products and bringing their architecture, security, and delivery practices up to a modern standard.
 
+## Live products
+
+- **[Grasp](https://grasp-one.vercel.app)** — AI-assisted reading comprehension practice with timed recall and personalized feedback.
+- **[Engineering consulting](https://consultation-site-ten.vercel.app)** — Product, API, and AI engineering services for startups.
+- **[Jeopardy](https://j3op4rdy.surge.sh)** — An earlier browser-game project, kept online as part of my early-career archive. ([Source](https://github.com/hhuumm/jeopardy))
+
 ## Featured work
 
-### Grasp (private)
+### [Grasp](https://grasp-one.vercel.app) (private source)
 
 An AI-assisted reading comprehension trainer built around timed recall: learners read a passage, summarize it from memory, and receive targeted feedback. The current version includes a complete demo flow, multiple AI-provider support, encrypted connection credentials, strict TypeScript checks, and CI.
+
+**[Open the live product](https://grasp-one.vercel.app)**
 
 `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `AI-assisted learning`
 
