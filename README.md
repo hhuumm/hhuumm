@@ -6,6 +6,7 @@ My current focus is the workflow around AI-assisted software development: coordi
 
 ## Live products
 
+- **[Quantum Graph](https://graph-visualizer-theta.vercel.app)** — Interactive Three.js network visualization with orbit controls, node inspection, and simulated event pulses.
 - **[Grasp](https://grasp-one.vercel.app)** — AI-assisted reading comprehension practice with timed recall and personalized feedback.
 - **[Engineering consulting](https://consultation-site-ten.vercel.app)** — Product, API, and AI engineering services for startups.
 - **[Jeopardy](https://j3op4rdy.surge.sh)** — An earlier browser-game project, kept online as part of my early-career archive. ([Source](https://github.com/hhuumm/jeopardy))
