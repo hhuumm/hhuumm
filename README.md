@@ -13,7 +13,7 @@ My current focus is the workflow around AI-assisted software development: coordi
 
 ## Featured work
 
-### [Grasp](https://grasp-one.vercel.app)
+### [Grasp](https://github.com/hhuumm/grasp)
 
 An AI-assisted reading comprehension trainer built around timed recall: learners read a passage, summarize it from memory, and receive targeted feedback. The current version includes a complete demo flow, multiple AI-provider support, encrypted connection credentials, strict TypeScript checks, and CI.
 
